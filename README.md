@@ -1,3 +1,25 @@
+This is the Frontend for the hh-smartcontract-lottery-fcc Raffle Smartcontract. It is already deployed on IPFS through fleek:
+
+ipfs://bafybeihfvxwqrhjgp5awfgecsyj4ckup6esxiwyd3ntgvdkb55lgoxnst4/
+
+https://fragrant-sun-9076.on.fleek.co/ (The Fleek version doesnt really work tho for some reason which I didn't bother figuring out)
+
+The Raffle (Raffle_2) Smartcontract is not deployed! to test the whole thing you can use a local host (make sure to adapt the contract address in this project tho):
+
+terminal: cd ../hardhat-smart…
+
+hh node
+
+terminal: cd ../nextjs...
+
+yarn dev
+
+If necessary reset the metamask local host account: settings -> advanced -> reset account
+
+Have fun :)
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
